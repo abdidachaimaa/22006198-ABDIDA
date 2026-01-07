@@ -1,6 +1,6 @@
 # Compte Rendu - Analyse du Dataset Iris avec Random Forest
 
-## Nom compltet : Chaïmaâ ABDIDA    
+## Nom complet : Chaïmaâ ABDIDA    
 
 <img src="me but professional.jpg" style="height:464px;margin-right:432px"/>
 
